@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Clique aqui para começar"; ObjectID = "9Wx-98-DAX"; */
+"9Wx-98-DAX.normalTitle" = "Clique aqui para começar";
+
+/* Class = "UILabel"; text = "Boas vindas"; ObjectID = "FfE-CP-GKs"; */
+"FfE-CP-GKs.text" = "Boas vindas";
+
+/* Class = "UINavigationItem"; title = "Gist Comments"; ObjectID = "VyZ-i2-Pr9"; */
+"VyZ-i2-Pr9.title" = "Gist Comments";

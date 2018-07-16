@@ -1,0 +1,14 @@
+/* 
+  ScreenLabels.strings
+  GistComments
+
+  Created by Jeferson Nazario on 11/07/18.
+  Copyright © 2018 jnazario.com. All rights reserved.
+*/
+
+"WelcomeHomeScreen" = "Welcome to Gist Comments, please, tap on 'Let's start' button below to read a gist QRCode or tap on 'My Comments' button to see your interactions.";
+
+"SectionComments" = "Comments";
+
+// Requests
+"requestGenericError" = "There's an error on your request. Please, try again later.";
